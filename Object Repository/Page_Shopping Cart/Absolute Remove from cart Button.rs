@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Absolute Remove from cart Button</name>
+   <tag></tag>
+   <elementGuidId>d9adc164-d57e-455d-bcde-0e02eca8f42e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='cart']/div/table/tbody/tr[2]/td[7]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-sm.btn-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f2f56827-5379-4eef-bcb9-858e18f4e0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=checkout/cart&amp;remove=68</value>
+      <webElementGuid>23ee869d-581d-490e-9a34-710587dc951d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-default</value>
+      <webElementGuid>bbc142e4-fd19-4a72-bb82-fad9bee61517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart&quot;)/div[@class=&quot;container-fluid cart-info product-list&quot;]/table[@class=&quot;table table-striped table-bordered&quot;]/tbody[1]/tr[2]/td[@class=&quot;align_center&quot;]/a[@class=&quot;btn btn-sm btn-default&quot;]</value>
+      <webElementGuid>d19314db-8e01-4725-bf63-b4631f5a8e77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='cart']/div/table/tbody/tr[2]/td[7]/a</value>
+      <webElementGuid>254c8787-7420-4c58-bb6e-b1eec0962e90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$30.78'])[3]/following::a[1]</value>
+      <webElementGuid>ed2c0834-ebf7-4eb9-860f-6a470c482ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$30.78'])[2]/following::a[1]</value>
+      <webElementGuid>4b5287e1-0af8-42e7-bc60-651ded34e338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BeneFit Girl Meets Pearl'])[2]/preceding::a[2]</value>
+      <webElementGuid>61bc9cb7-852f-4b94-b739-e34a01024070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$13.93'])[2]/preceding::a[3]</value>
+      <webElementGuid>861cccbb-5fa8-4a25-a44a-571af7e75c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=checkout/cart&amp;remove=68')]</value>
+      <webElementGuid>44a0203b-8c6a-4ec7-9de7-6e5c8742c1f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/a</value>
+      <webElementGuid>6be2a7d9-a756-4c24-878d-e7deed20f96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=checkout/cart&amp;remove=68']</value>
+      <webElementGuid>077d5473-29c8-48b9-a5f2-12f8d0647438</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
