@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fragrance</name>
+   <tag></tag>
+   <elementGuidId>9bc15357-d049-4f79-b43f-844a4bfcd35b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.breadcrumb > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Fragrance')])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b652490-bbab-404e-9286-cbaf8948e34b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=product/category&amp;path=49</value>
+      <webElementGuid>cb023163-e55a-4cfa-a86c-65e0b2bcac8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	    	Fragrance	    </value>
+      <webElementGuid>84d42afd-b72f-476d-9f84-54781a9688e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;product-category&quot;]/div[@class=&quot;container-fixed&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12&quot;]/section[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;breadcrumb&quot;]/li[2]/a[1]</value>
+      <webElementGuid>1f3da46a-33e8-4e8a-a320-b1a9c8f14b6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Fragrance')])[3]</value>
+      <webElementGuid>e8c01646-3242-45f1-8ae1-def2f47c7fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[2]/preceding::a[1]</value>
+      <webElementGuid>3392f9cb-3134-44f6-a6b4-04e826265ab9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[3]/preceding::a[2]</value>
+      <webElementGuid>8ca69803-9e56-4d8e-bfdb-222f45a3450f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=49')])[6]</value>
+      <webElementGuid>ea3b8c66-b624-41af-abeb-f80872003d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li[2]/a</value>
+      <webElementGuid>0d9e474b-3145-4e4d-82a1-d900fa1fe8f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=49' and (text() = '
+	    	Fragrance	    ' or . = '
+	    	Fragrance	    ')]</value>
+      <webElementGuid>647f2a3a-95db-40f7-8e5a-f235dc3eb2a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

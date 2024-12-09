@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_T-shirts</name>
+   <tag></tag>
+   <elementGuidId>4eecae94-629e-4b04-9497-3a84912d8f11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.breadcrumb > li:nth-of-type(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'T-shirts')])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cf09b990-d12d-47a4-aed4-447f84f0b218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=product/category&amp;path=68_70</value>
+      <webElementGuid>f5175bd2-f9ef-4686-a82d-6826d2c4cbb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	    	T-shirts	    </value>
+      <webElementGuid>51f38630-7343-4043-b3d1-7443fc27c45c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;product-category&quot;]/div[@class=&quot;container-fixed&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12&quot;]/section[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;breadcrumb&quot;]/li[3]/a[1]</value>
+      <webElementGuid>28c4cbc2-4d71-4b66-a1e7-378d07ac88a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'T-shirts')])[2]</value>
+      <webElementGuid>16cf469d-de24-4c3e-a3f8-c340edd1b346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apparel &amp; accessories'])[2]/following::a[1]</value>
+      <webElementGuid>1250e2be-3655-4251-9e02-53bc568b2284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-shirts'])[3]/preceding::a[1]</value>
+      <webElementGuid>8561e151-0674-479d-8104-b893e1425faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=68_70')])[4]</value>
+      <webElementGuid>51a94868-6d05-48d5-84f1-2d4d91386260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li[3]/a</value>
+      <webElementGuid>f67e2161-098a-42ec-928f-d96903314471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=68_70' and (text() = '
+	    	T-shirts	    ' or . = '
+	    	T-shirts	    ')]</value>
+      <webElementGuid>922facda-92e6-4407-bea2-128f553f7f72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

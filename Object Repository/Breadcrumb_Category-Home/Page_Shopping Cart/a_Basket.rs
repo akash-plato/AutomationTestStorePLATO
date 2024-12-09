@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Basket</name>
+   <tag></tag>
+   <elementGuidId>36911ec0-ac0d-4e0a-a9fb-cf5b421dd3b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.breadcrumb > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Basket')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d94c4b1e-14a3-4413-8d37-2e91e0ad20f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=checkout/cart</value>
+      <webElementGuid>ebcc78a9-4981-4da1-bd59-142df28e55f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	    	Basket	    </value>
+      <webElementGuid>b88d758d-e24a-43ab-9f6f-d27af4799abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;checkout-cart&quot;]/div[@class=&quot;container-fixed&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12&quot;]/section[@class=&quot;breadcrumbs&quot;]/ul[@class=&quot;breadcrumb&quot;]/li[2]/a[1]</value>
+      <webElementGuid>b5f8fc33-5566-49f6-8251-f6fbb8b64ec7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Basket')]</value>
+      <webElementGuid>e702c21e-bd53-4daf-b89e-7a219a889c2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping Cart'])[2]/preceding::a[1]</value>
+      <webElementGuid>7fe60c83-a639-4ba0-a901-1a3a534b1256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Basket']/parent::*</value>
+      <webElementGuid>c052f480-c265-420d-8718-e0411cd6860e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=checkout/cart')])[7]</value>
+      <webElementGuid>9afadd87-7bd0-47cb-b57c-7d08e9055d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li[2]/a</value>
+      <webElementGuid>14062e92-2e37-44a7-9534-2f8c85f9a633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=checkout/cart' and (text() = '
+	    	Basket	    ' or . = '
+	    	Basket	    ')]</value>
+      <webElementGuid>e4b5fd39-6c71-4c0d-bd12-82807fa2d76b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

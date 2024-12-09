@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Eyes_1</name>
+   <tag></tag>
+   <elementGuidId>9f1e5ec3-b981-43eb-b01e-2b9ed1779f54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.current > div.subcategories > ul > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='categorymenu']/nav/ul/li[3]/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a145e1f6-4d94-44f2-b677-0e73174f441f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=product/category&amp;path=43_47</value>
+      <webElementGuid>8e4f5464-ae9e-4cd1-92b8-e52aabde0801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    Eyes</value>
+      <webElementGuid>a2c96b16-40aa-4f56-a949-b13afeba8e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;categorymenu&quot;)/nav[@class=&quot;subnav&quot;]/ul[@class=&quot;nav-pills categorymenu&quot;]/li[@class=&quot;current&quot;]/div[@class=&quot;subcategories&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>4a0bfae7-0bef-40ba-aa7d-6de4d32d1faf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='categorymenu']/nav/ul/li[3]/div/ul/li/a</value>
+      <webElementGuid>5de33523-04a0-4230-9800-293e6519bf99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Eyes')]</value>
+      <webElementGuid>e6b590b3-af80-4bcc-bb56-494bbce7871d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=43_47')]</value>
+      <webElementGuid>c85a4fdb-8aac-4fba-bac5-52032d0017a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/ul/li/a</value>
+      <webElementGuid>0915a317-184a-4e1d-a689-62b53a16c4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=43_47' and (text() = '    Eyes' or . = '    Eyes')]</value>
+      <webElementGuid>976d8841-afe5-4edf-9466-6ff7bc28b95a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

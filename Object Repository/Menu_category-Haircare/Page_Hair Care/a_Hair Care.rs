@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Hair Care</name>
+   <tag></tag>
+   <elementGuidId>87050ec8-1e04-43de-89a8-57613f168f64</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.current > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='categorymenu']/nav/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>17a73b11-39c6-46ef-9269-59f58ec2704e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=product/category&amp;path=52</value>
+      <webElementGuid>42965bac-80e1-42f2-a660-4ec17b8a6d31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Hair Care</value>
+      <webElementGuid>006d53b0-35ae-4249-8b1b-c146f19db96d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;categorymenu&quot;)/nav[@class=&quot;subnav&quot;]/ul[@class=&quot;nav-pills categorymenu&quot;]/li[@class=&quot;current&quot;]/a[1]</value>
+      <webElementGuid>1bf1c028-3a98-426d-8d26-3afcf2ec795f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='categorymenu']/nav/ul/li[5]/a</value>
+      <webElementGuid>2db1a94f-3a85-4956-9bc3-fc5d982b53e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Hair Care')])[2]</value>
+      <webElementGuid>33a5ce16-0989-491f-b92f-0f7e57d9ae6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=52')])[3]</value>
+      <webElementGuid>417d8017-b580-4b17-8bb6-b7ae946bd371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul/li[5]/a</value>
+      <webElementGuid>749d00a6-00a5-4d3a-88b0-14064a0cc290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=52' and (text() = '  Hair Care' or . = '  Hair Care')]</value>
+      <webElementGuid>2269362d-ad5b-46b6-9c58-a648c541fe75</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

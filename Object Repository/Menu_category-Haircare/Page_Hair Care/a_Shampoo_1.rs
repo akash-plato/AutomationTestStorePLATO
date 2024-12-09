@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shampoo_1</name>
+   <tag></tag>
+   <elementGuidId>d9dd3f65-47eb-4126-be85-d1b666cd39bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.current > div.subcategories > ul > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='categorymenu']/nav/ul/li[5]/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e9bf2bbb-960b-489f-ad3a-e347fd06b959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=product/category&amp;path=52_53</value>
+      <webElementGuid>3c168013-3e8d-4354-a581-34577ec6208d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>    Shampoo</value>
+      <webElementGuid>8889fd8c-e1cf-4b63-837e-6c10c323ecf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;categorymenu&quot;)/nav[@class=&quot;subnav&quot;]/ul[@class=&quot;nav-pills categorymenu&quot;]/li[@class=&quot;current&quot;]/div[@class=&quot;subcategories&quot;]/ul[1]/li[2]/a[1]</value>
+      <webElementGuid>5d3966d0-1630-4f82-b83e-3ab9ee987ae8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='categorymenu']/nav/ul/li[5]/div/ul/li[2]/a</value>
+      <webElementGuid>dc1364d9-9a52-460f-8ad4-d0b48f3d7566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shampoo')]</value>
+      <webElementGuid>20acc46d-d845-4b8f-adf5-89d372d6d296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hair Care'])[3]/preceding::a[2]</value>
+      <webElementGuid>8c8a7729-7257-4dc6-a3fc-3accc55dd96f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=52_53')]</value>
+      <webElementGuid>d1b1ed96-b1b6-4e1c-9e95-0c3465c191ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/ul/li[2]/a</value>
+      <webElementGuid>0aa06684-acc5-4557-aff0-ae53a78a1a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=52_53' and (text() = '    Shampoo' or . = '    Shampoo')]</value>
+      <webElementGuid>6bd01d68-9ab0-4e4e-b416-58adc4eb207f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

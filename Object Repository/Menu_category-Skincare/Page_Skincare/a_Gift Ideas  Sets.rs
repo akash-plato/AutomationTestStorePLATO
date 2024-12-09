@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Gift Ideas  Sets</name>
+   <tag></tag>
+   <elementGuidId>2d8c1bc0-ed98-4dac-977c-36cc0e6af9ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/ul/li[3]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1006cf15-53a0-484d-aa75-c364ed0b7ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=product/category&amp;path=43_45</value>
+      <webElementGuid>64978df5-bdcd-48c7-a808-5f0946de71e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gift Ideas &amp; Sets</value>
+      <webElementGuid>744c7bf0-9466-41f2-934a-2c419bbcad3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12 col-xs-12 mt20&quot;]/div[1]/div[@class=&quot;contentpanel&quot;]/ul[@class=&quot;thumbnails row&quot;]/li[@class=&quot;col-md-2 col-sm-2 col-xs-6 align_center&quot;]/div[@class=&quot;mt10 align_center&quot;]/a[1]</value>
+      <webElementGuid>706f6cb8-50f2-4140-9fe5-8b9a3b25cfb6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/ul/li[3]/div/a</value>
+      <webElementGuid>c5e3094e-938a-4b8b-a964-18b310caf53f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Gift Ideas &amp; Sets')])[2]</value>
+      <webElementGuid>61754d22-b1da-41a6-b162-451145d84045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Face'])[1]/following::a[2]</value>
+      <webElementGuid>c35a5baa-0407-4684-9353-3c7e23f2eeec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eyes'])[1]/following::a[4]</value>
+      <webElementGuid>11269a7d-1011-4804-b209-35b53b652429</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hands &amp; Nails'])[1]/preceding::a[2]</value>
+      <webElementGuid>524daf90-7652-49e0-b33f-9bb964ac1b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[1]/preceding::a[4]</value>
+      <webElementGuid>010b4855-4315-46fa-ba2b-44df68d73b3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gift Ideas &amp; Sets']/parent::*</value>
+      <webElementGuid>6436a17b-81cf-4ff2-9f2a-3fae5edd4b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=43_45')])[3]</value>
+      <webElementGuid>1681798d-b069-4ed6-8ee4-c09b0b57bb32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a</value>
+      <webElementGuid>42fbaef8-5c10-4dcb-951d-9f0de2b89279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=product/category&amp;path=43_45' and (text() = 'Gift Ideas &amp; Sets' or . = 'Gift Ideas &amp; Sets')]</value>
+      <webElementGuid>5bbf6736-386d-4fe1-af60-e2780f35fc3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

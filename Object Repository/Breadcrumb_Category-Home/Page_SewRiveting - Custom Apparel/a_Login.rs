@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Login</name>
+   <tag></tag>
+   <elementGuidId>1bfb72b5-bf10-4134-9656-6cb7430634b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.dropdown.open > a.sub.menu_login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main_menu']/li[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e62e8ca-0271-477d-addb-ebe0fdc1a740</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub menu_login</value>
+      <webElementGuid>ddc19729-047f-40a8-adbe-7dfb6aae56df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=account/login</value>
+      <webElementGuid>48b9ad69-441d-412b-8d13-11dc5ade4413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>0d08392a-3206-4e60-a3d7-354c56378510</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_menu&quot;)/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;sub_menu dropdown-menu&quot;]/li[@class=&quot;dropdown open&quot;]/a[@class=&quot;sub menu_login&quot;]</value>
+      <webElementGuid>2a6e2d34-4fe8-443f-8a74-1c35ccc9801e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main_menu']/li[2]/ul/li/a</value>
+      <webElementGuid>8a8b3180-9b43-4e42-8bd3-ff5a06e3efe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[2]/following::a[1]</value>
+      <webElementGuid>17f3b978-1b37-44c7-aa1a-a217a432a4d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Specials'])[2]/following::a[2]</value>
+      <webElementGuid>ee28f10f-acfd-4a7a-88e4-1f4311592c65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Your Order'])[2]/preceding::a[1]</value>
+      <webElementGuid>d744b4fc-8c22-4bfc-a874-9de07eead876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=account/login')])[3]</value>
+      <webElementGuid>70fb203d-25ae-4439-8b0a-3b874c30d270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/ul/li[2]/ul/li/a</value>
+      <webElementGuid>71c9989a-bc26-45d7-8ca0-b960884ad047</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=account/login' and (text() = ' Login' or . = ' Login')]</value>
+      <webElementGuid>6e0ac1fb-8cf6-446b-a3c9-f14c9d027ab3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

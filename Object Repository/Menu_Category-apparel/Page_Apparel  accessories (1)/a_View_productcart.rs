@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View_productcart</name>
+   <tag></tag>
+   <elementGuidId>78279517-c8af-4ee2-b5e9-f24a42ef3e53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pricetag.pricetag_wide.pull-right > a.productcart</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/div[3]/div/div/div/div[2]/div[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0ca15cf0-0ec4-4f63-bc72-2a420cdec72e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>119</value>
+      <webElementGuid>cdddb45e-5573-4e1b-8ffb-8da54f80a9ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://sewriveting.ca/store/index.php?rt=product/product&amp;product_id=119</value>
+      <webElementGuid>399cf1c7-7c2d-4011-8f67-cf6d33446845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>productcart</value>
+      <webElementGuid>5ec803dd-bf36-4580-8e2c-ae156c440277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add to Cart</value>
+      <webElementGuid>418bbe79-3905-486b-87e0-02e9aca51897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-12 col-xs-12 mt20&quot;]/div[1]/div[@class=&quot;contentpanel&quot;]/div[@class=&quot;thumbnails list row&quot;]/div[1]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;pricetag pricetag_wide pull-right&quot;]/a[@class=&quot;productcart&quot;]</value>
+      <webElementGuid>1cdf16f2-28ee-4e7c-919f-161497f49a2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/div[3]/div/div/div/div[2]/div[4]/a</value>
+      <webElementGuid>1bf7516c-f8b5-4579-a2d5-62b830eb4a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[9]/following::a[2]</value>
+      <webElementGuid>1e2a7716-5245-4b46-8f27-8a00c31c2180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fruit of the Loom T-Shirts 5 Pack - Super Premium'])[2]/following::a[3]</value>
+      <webElementGuid>32c352ab-4de4-4881-a08b-2436bb4016e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$7.32'])[2]/preceding::a[1]</value>
+      <webElementGuid>9af91c9f-1730-473d-b5ec-7ef11680d64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://sewriveting.ca/store/index.php?rt=product/product&amp;product_id=119')])[2]</value>
+      <webElementGuid>f0bef7e1-1e0f-4e34-81b5-f5f7f9b3cc1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a</value>
+      <webElementGuid>3d737de4-6ed9-448c-bfb0-7d006f86a10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://sewriveting.ca/store/index.php?rt=product/product&amp;product_id=119' and @title = 'Add to Cart']</value>
+      <webElementGuid>646d2d2a-3ec4-4bcc-a4cb-bc5e03c4431b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

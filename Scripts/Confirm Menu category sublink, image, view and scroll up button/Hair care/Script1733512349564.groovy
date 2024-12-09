@@ -23,60 +23,72 @@ WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_SewRiveting - Custom Apparel/a_Hair Care'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_SewRiveting - Custom Apparel/a_Hair Care'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Hair Care/i_Sort By_fa fa-th-list'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/button_Sort By_grid'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/button_Sort By_grid'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/button_Sort By_list'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/menu_category-hair_care/Page_Hair Care/i_View_fa fa-cart-plus fa-fw'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/img'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/menu_category-hair_care/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_View_productcart'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Hair Care/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Back to top'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Hair Care/img'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/img_1'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Hair Care'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/a_Hair Care'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Hair Care/a_Conditioner'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Conditioner'))
 
-WebUI.mouseOver(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Hair Care'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/a_Hair Care'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Conditioner'))
+WebUI.mouseOver(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Hair Care'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/i_Sort By_fa fa-th'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Conditioner_1'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/button_Sort By_list'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/button_Sort By_grid'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Write Review_productcart'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/button_Sort By_list'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/img'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/a_Write Review_productcart'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/a_Back to top'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Hair Care'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/a_Hair Care'))
 
-WebUI.click(findTestObject('menu_category-hair_care/Page_Hair Care/img (1)'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/img_1_2'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Hair Care'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/a_Hair Care'))
 
-WebUI.click(findTestObject('menu_category-hair_care/Page_Hair Care/a_Shampoo'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Shampoo'))
 
-WebUI.mouseOver(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Hair Care'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/a_Hair Care'))
 
-WebUI.click(findTestObject('menu_category-hair_care/Page_Shampoo/a_Shampoo'))
+WebUI.mouseOver(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/a_Hair Care'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/i_Sort By_fa fa-th'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Shampoo_1'))
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/button_Sort By_list'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/button_Sort By_grid'))
 
-WebUI.scrollToElement(findTestObject('menu_category-hair_care/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'), 
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/button_Sort By_list'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/img'))
+
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/a_View_productcart'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/menu_category-hair_care/Page_Conditioner/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/a_Back to top'))
 
 WebUI.closeBrowser()
 

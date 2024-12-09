@@ -23,68 +23,72 @@ WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_SewRiveting - Custom Apparel/a_Fragrance'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_SewRiveting - Custom Apparel/a_Fragrance'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/button_Sort By_grid'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/button_Sort By_grid'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/button_Sort By_list'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/button_Sort By_list'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/img'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/img'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/a_Write Review_productcart'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/a_Write Review_productcart'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/div_Per Page10203040501 - 9 of 9             1'), 
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/div_Per Page10203040501 - 9 of 9             1'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/a_Back to top'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/img_1'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/img_1'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/a_Fragrance'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/a_Fragrance'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/a_Men'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/a_Men'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/a_Fragrance'))
+WebUI.mouseOver(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/a_Fragrance'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/a_Men'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/a_Men'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/button_Sort By_grid'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/button_Sort By_grid'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/button_Sort By_list'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/button_Sort By_list'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/img'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/img'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/a_Write Review_productcart'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/a_Write Review_productcart'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/div_Per Page10203040501 - 8 of 8             1'), 
+WebUI.rightClick(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/div_Per Page10203040501 - 8 of 8             1'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/div_Contact Us123 456 7890, 123 456 7890123_325867'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/a_Back to top'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Men/a_Fragrance'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/a_Fragrance'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/img_1_2'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/img_1_2'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/a_Fragrance'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Women/a_Fragrance'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Fragrance/a_Women'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/a_Women'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/a_Fragrance'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Women/a_Fragrance'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/a_Women'))
+WebUI.mouseOver(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/a_Fragrance'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/button_Sort By_grid'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/a_Women_1'))
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/button_Sort By_list'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/button_Sort By_grid'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/img'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Fragrance/button_Sort By_list'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/a_Write Review_productcart'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Fragrance/Page_Women/img'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/div_Per Page10203040501 - 12 of 12             1'), 
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Fragrance/Page_Women/a_Write Review_productcart'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Fragrance/Page_Women/div_Per Page10203040501 - 12 of 12             1'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Fragrance/Fragreance/Page_Women/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/Menu_category-Fragrance/Page_Women/a_Back to top'))
 
 WebUI.closeBrowser()
 

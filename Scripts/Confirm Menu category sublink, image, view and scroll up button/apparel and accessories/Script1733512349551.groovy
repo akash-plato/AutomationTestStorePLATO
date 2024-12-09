@@ -23,45 +23,43 @@ WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Menu_Category-apparel/Page_Apparel  accessories/a_Apparel  accessories'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_SewRiveting - Custom Apparel/a_Apparel  accessories'))
 
-WebUI.click(findTestObject('breadcrumb category apparel/Page_Apparel  accessories/button_Sort By_list'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/button_Sort By_grid'))
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_Apparel  accessories/button_Sort By_grid'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/button_Sort By_list'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_Category-Apparel/Page_Apparel  accessories/a_View_productcart'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/img'))
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_Apparel  accessories/button_Sort By_list'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/a_View_productcart'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_Category-Apparel/Page_Apparel  accessories/img'))
-
-WebUI.scrollToElement(findTestObject('Object Repository/Menu_Category-Apparel/Page_Apparel  accessories/div_Per Page10203040501 - 8 of 8             1'), 
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/div_Per Page10203040501 - 8 of 8             1'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_Apparel  accessories/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/a_Back to top'))
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_Apparel  accessories/img_1'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/img_1'))
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/a_Apparel  accessories'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/a_Apparel  accessories'))
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_Apparel  accessories/a_T-shirts'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/a_T-shirts'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/a_Apparel  accessories'))
+WebUI.mouseOver(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/a_Apparel  accessories'))
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/a_T-shirts'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/a_T-shirts'))
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/button_Sort By_grid'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/button_Sort By_grid'))
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/button_Sort By_list'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/button_Sort By_list'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/img'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/img'))
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/a_View_productcart'))
+WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/a_View_productcart'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/div_Per Page10203040501 - 5 of 5             1'), 
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/div_Per Page10203040501 - 5 of 5             1'), 
     0)
 
-WebUI.click(findTestObject('Object Repository/Menu_Category-Apparel/Page_T-shirts/a_Back to top'))
+WebUI.click(findTestObject('Object Repository/Menu_Category-apparel/Page_T-shirts/a_Back to top'))
 
 WebUI.closeBrowser()
 
