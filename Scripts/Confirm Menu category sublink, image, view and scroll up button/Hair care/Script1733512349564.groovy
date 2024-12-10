@@ -48,7 +48,7 @@ WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Condit
 
 WebUI.mouseOver(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Hair Care'))
 
-WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Conditioner_1'))
+WebUI.click(findTestObject('Menu_category-Haircare/Page_Hair Care/a_Conditioner_1'))
 
 WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/button_Sort By_grid'))
 

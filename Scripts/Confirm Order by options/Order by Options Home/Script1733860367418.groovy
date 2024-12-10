@@ -31,45 +31,100 @@ WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/P
     0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
-    '10',  false)
+    '10', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'), 
+    0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
-    '20',  false)
+    '20', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'), 
+    0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
-    '30',  false)
+    '30', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'), 
+    0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
-    '40',  false)
+    '40', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'), 
+    0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
-    '50',  false)
+    '50', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'), 
+    0)
 
 WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
-    'pd.name-ASC',  false)
+    'pd.name-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'), 
+    0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
-    'pd.name-DESC',  false)
+    'pd.name-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'),
+	0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
-    'p.price-ASC',  false)
+    'p.price-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'),
+	0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
-    'p.price-DESC',  false)
+    'p.price-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'),
+	0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
-    'rating-DESC',  false)
+    'rating-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'),
+	0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
-    'rating-ASC',  false)
+    'rating-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'),
+	0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
-    'date_modified-ASC',  false)
+    'date_modified-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'),
+	0)
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
-    'date_modified-DESC',  false)
+    'date_modified-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Order by category home/Page_Special Offers/div_Per Page10203040501 - 8 of 8             1'),
+	0)
 
 WebUI.closeBrowser()
 

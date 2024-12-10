@@ -56,8 +56,6 @@ WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Fra
 
 WebUI.verifyElementClickable(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/a_Write Review_productcart'))
 
-WebUI.rightClick(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/div_Per Page10203040501 - 8 of 8             1'))
-
 WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Fragrance/Page_Men/div_Contact Us123 456 7890, 123 456 7890123_325867'), 
     0)
 

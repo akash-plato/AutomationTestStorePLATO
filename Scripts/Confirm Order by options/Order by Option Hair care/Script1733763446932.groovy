@@ -17,160 +17,325 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
 WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_SewRiveting - Custom Apparel/a_Hair Care'))
 
-WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'),
-	0)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
 
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '10', false)
 
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'10',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '20', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'20',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'30',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '30', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'40',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'50',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '40', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '50', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'pd.name-ASC', false)
 
 WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'pd.name-ASC',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'pd.name-DESC',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'pd.name-DESC', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'p.price-ASC',  false)
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'p.price-DESC',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'rating-DESC',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'p.price-ASC', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'rating-ASC',  false)
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'date_modified-ASC',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'date_modified-DESC',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'p.price-DESC', false)
 
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'rating-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'rating-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'date_modified-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'date_modified-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/div_Per Page10203040501 - 4 of 4             1'), 
+    0)
 
 WebUI.mouseOver(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Hair Care'))
 
 WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Conditioner_1'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '10', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '20', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '30', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '40', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '50', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'pd.name-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'pd.name-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'),
 	0)
 
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'10',  false)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'20',  false)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'30',  false)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'40',  false)
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'50',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'p.price-ASC', false)
 
 WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'pd.name-ASC',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'),
+	0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'pd.name-DESC',  false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'p.price-ASC',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'p.price-DESC', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'p.price-DESC',  false)
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'rating-DESC',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'),
+	0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'rating-ASC',  false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'date_modified-ASC',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'rating-DESC', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'date_modified-DESC',  false)
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'),
+	0)
+
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'rating-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'),
+	0)
+
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'date_modified-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'),
+	0)
+
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'date_modified-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Conditioner/div_Per Page10203040501 - 5 of 5             1'),
+	0)
+
 
 WebUI.mouseOver(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/a_Hair Care'))
 
 WebUI.click(findTestObject('Object Repository/Menu_category-Haircare/Page_Hair Care/a_Shampoo_1'))
 
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'), 
+    0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '10', false)
 
 WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
 	0)
 
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'10',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '20', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'20',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'30',  false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'40',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '30', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'),
-	'50',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
+
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '40', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
+
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_1020304050'), 
+    '50', false)
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
+
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'pd.name-ASC', false)
 
 WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'pd.name-ASC',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'pd.name-DESC',  false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'p.price-ASC',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'pd.name-DESC', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'p.price-DESC',  false)
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'rating-DESC',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'rating-ASC',  false)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'p.price-ASC', false)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'date_modified-ASC',  false)
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'),
-	'date_modified-DESC',  false)
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'p.price-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'rating-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'rating-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'date_modified-ASC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category home/Page_Special Offers/select_Date New  OldName A - ZName Z - APri_caf541'), 
+    'date_modified-DESC', false)
+
+WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
+
+WebUI.scrollToElement(findTestObject('Object Repository/Menu_category-Haircare/Page_Shampoo/div_Per Page10203040501 - 2 of 2             1'),
+	0)
 
 WebUI.closeBrowser()
+
