@@ -21,11 +21,11 @@ WebUI.callTestCase(findTestCase('Cart Functionality/ATS_001_002'), [:], FailureH
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/index.php?rt=checkout/cart')
 
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/SkinSheen Remove from Cart Button'))
+WebUI.click(findTestObject('Object Repository/Shopping Cart/SkinSheen Remove from Cart Button'))
 
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/Absolute Remove from cart Button'))
+WebUI.click(findTestObject('Object Repository/Shopping Cart/Absolute Remove from cart Button'))
 
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/BeneFit Remove from Cart Button'))
+WebUI.click(findTestObject('Object Repository/Shopping Cart/BeneFit Remove from Cart Button'))
 
 WebUI.closeBrowser()
 

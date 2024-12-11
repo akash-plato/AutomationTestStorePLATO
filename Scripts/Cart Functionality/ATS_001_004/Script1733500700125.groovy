@@ -21,15 +21,15 @@ WebUI.callTestCase(findTestCase('Cart Functionality/ATS_001_002'), [:], FailureH
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/index.php?rt=checkout/cart')
 
-WebUI.setText(findTestObject('Object Repository/Page_Shopping Cart/input_21.62_quantity50'), '2')
+WebUI.setText(findTestObject('Object Repository/Shopping Cart/input_21.62_quantity50'), '2')
 
-WebUI.setText(findTestObject('Object Repository/Page_Shopping Cart/input_30.78_quantity68'), '3')
+WebUI.setText(findTestObject('Object Repository/Shopping Cart/input_30.78_quantity68'), '3')
 
-WebUI.setText(findTestObject('Object Repository/Page_Shopping Cart/input_13.93_quantity51'), '0')
+WebUI.setText(findTestObject('Object Repository/Shopping Cart/input_13.93_quantity51'), '0')
 
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/SkinSheen Remove from Cart Button'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Shopping Cart/SkinSheen Remove from Cart Button'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/Absolute Remove from cart Button'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Shopping Cart/Absolute Remove from cart Button'), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.click(findTestObject('Object Repository/Page_Shopping Cart/BeneFit Remove from Cart Button'), FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Shopping Cart/BeneFit Remove from Cart Button'), FailureHandling.CONTINUE_ON_FAILURE)
 

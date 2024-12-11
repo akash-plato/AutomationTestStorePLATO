@@ -31,10 +31,10 @@ WebUI.click(findTestObject('Object Repository/Page_SewRiveting - Custom Apparel/
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/index.php?rt=checkout/cart')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Shopping Cart/a_Skinsheen Bronzer Stick'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shopping Cart/a_Skinsheen Bronzer Stick'), 0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Shopping Cart/a_Absolute Anti-Age Spot Replenishing Unify_9a6ab4'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shopping Cart/a_Absolute Anti-Age Spot Replenishing Unify_9a6ab4'), 
     0)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Shopping Cart/a_BeneFit Girl Meets Pearl'), 0)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Shopping Cart/a_BeneFit Girl Meets Pearl'), 0)
 
