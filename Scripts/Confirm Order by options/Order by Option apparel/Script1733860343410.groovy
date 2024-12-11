@@ -61,6 +61,14 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Order by category ho
 
 WebUI.click(findTestObject('Object Repository/Order by category home/Page_Special Offers/button_Sort By_list'))
 
+WebUI.scrollToElement(findTestObject('Menu_Category-apparel/Page_Apparel  accessories/div_80.62_col-md-4'), 0)
+
+WebUI.delay(3)
+
+WebUI.scrollToElement(findTestObject('Menu_Category-apparel/Page_Apparel  accessories/div_19.06_col-md-4'), 0)
+
+WebUI.delay(3)
+
 WebUI.scrollToElement(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/div_Per Page10203040501 - 8 of 8             1'), 
     0)
 

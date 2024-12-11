@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='block_frame_latest_2640']/div/div/div[2]/div[3]/a</value>
+         <value>//div[@id='block_frame_featured_2639']/div/div/div[2]/div[3]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#block_frame_latest_2640 > div.thumbnails.list-inline > div.col-md-3.col-sm-6.col-xs-12 > div.thumbnail > div.pricetag.jumbotron > a.productcart</value>
+         <value>a.productcart</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>ba3a28f4-2f4f-47e3-8405-db7affc7ff9c</webElementGuid>
+      <webElementGuid>8d33662a-2410-4473-a0c6-7b25500967be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-id</name>
       <type>Main</type>
-      <value>68</value>
-      <webElementGuid>8421de83-9fcc-4931-9ed6-77c033fbe0d3</webElementGuid>
+      <value>50</value>
+      <webElementGuid>57a15957-f6da-486a-91b3-d02e34212a29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>70bcdcf2-cb2e-4651-b6f4-1b1a77988ac0</webElementGuid>
+      <webElementGuid>4d0f3a95-3e28-43ed-b741-765c2d301d72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>productcart</value>
-      <webElementGuid>4bda05ea-ffe2-4c82-bf2e-cea0c0b719a4</webElementGuid>
+      <webElementGuid>b38d182e-6c0b-4417-91bf-3ac4fd0f5773</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,71 +55,63 @@
       <name>title</name>
       <type>Main</type>
       <value>Add to Cart</value>
-      <webElementGuid>53cc1b0a-bd31-47ac-9f27-2d46a27bf012</webElementGuid>
+      <webElementGuid>e24d162d-0537-44e8-b150-20861397e8f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;block_frame_latest_2640&quot;)/div[@class=&quot;thumbnails list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;pricetag jumbotron&quot;]/a[@class=&quot;productcart&quot;]</value>
-      <webElementGuid>2326b11e-cd62-448c-8de6-7cc3219c19a2</webElementGuid>
+      <value>id(&quot;block_frame_featured_2639&quot;)/div[@class=&quot;thumbnails list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;pricetag jumbotron&quot;]/a[@class=&quot;productcart&quot;]</value>
+      <webElementGuid>2d86dfd8-1ac7-4ec6-bbe4-db21e08c985d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='block_frame_latest_2640']/div/div/div[2]/div[3]/a</value>
-      <webElementGuid>e6480ff2-54d7-448a-a4e9-d4aed5048905</webElementGuid>
+      <value>//div[@id='block_frame_featured_2639']/div/div/div[2]/div[3]/a</value>
+      <webElementGuid>757787d4-36de-40d7-bda8-4c8f2da83792</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Review'])[3]/following::a[1]</value>
-      <webElementGuid>dca97c5e-3899-4c78-a429-a47685196555</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Review'])[1]/following::a[1]</value>
+      <webElementGuid>5434840d-7589-445a-be09-7df436d3a36d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[5]/following::a[2]</value>
-      <webElementGuid>0d5cbb95-1fe8-4faf-8ee0-675b6993c460</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::a[2]</value>
+      <webElementGuid>f0e0c2e9-90ed-4a8c-88a3-e207750f15c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='$30.78'])[1]/preceding::a[1]</value>
-      <webElementGuid>aea3852b-fe3b-4828-9d14-de98f268a2f7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absolue Eye Precious Cells'])[1]/preceding::a[1]</value>
-      <webElementGuid>75413ab3-64d0-42a8-bc7f-ab61fcb5f25c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$21.62'])[1]/preceding::a[1]</value>
+      <webElementGuid>09f8bdaa-0951-4149-ae4e-b2f94d07a69a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '#')])[8]</value>
-      <webElementGuid>771c770f-6647-4116-923d-0e01bbfe9fd8</webElementGuid>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>48e7c1ab-85f9-4055-a84f-9671f3d734f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section[2]/div/div/div/div/div[2]/div[3]/a</value>
-      <webElementGuid>f370accd-8fb9-4cc3-8afb-c05035ce1a06</webElementGuid>
+      <value>//div[3]/a</value>
+      <webElementGuid>d7929510-61a7-4e8a-862e-15fba8894d1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +119,62 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#' and @title = 'Add to Cart']</value>
-      <webElementGuid>beee8790-98b6-45ed-b410-230537da70c2</webElementGuid>
+      <webElementGuid>cb0f0b39-c67f-46c3-a61b-b1d16bdbfa5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_frame_latest_2640']/div/div/div[2]/div[3]/a</value>
+      <webElementGuid>5132054b-e5d2-4eb6-90c2-3ff93fa2c649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Review'])[3]/following::a[1]</value>
+      <webElementGuid>c44ee244-2b9e-438f-a5fd-c25a32862b60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[5]/following::a[2]</value>
+      <webElementGuid>5188ce22-dbb5-43af-876c-beee97a8a040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$30.78'])[1]/preceding::a[1]</value>
+      <webElementGuid>704ba2fb-13e0-4547-af35-93e64bd73f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absolue Eye Precious Cells'])[1]/preceding::a[1]</value>
+      <webElementGuid>9e58d727-c24c-4855-8ec2-1ec46e5382a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[8]</value>
+      <webElementGuid>626bc718-77c4-43ac-b953-d43bd981a190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/div/div/div[2]/div[3]/a</value>
+      <webElementGuid>6685eacb-c752-47b5-bcda-c901797fd0bf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
