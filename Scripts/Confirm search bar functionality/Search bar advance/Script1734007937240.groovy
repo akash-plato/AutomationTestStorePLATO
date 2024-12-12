@@ -31,7 +31,11 @@ WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Sear
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Sort By_fa fa-th-list'))
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'Skinsheen Bronzer Stick')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,68', true)
@@ -57,6 +61,8 @@ WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Sear
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
 
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
 WebUI.selectOptionByValue(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,49', true)
 
@@ -67,6 +73,8 @@ WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search
 WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'Acqua Di Gio Pour Homme')
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,52', true)

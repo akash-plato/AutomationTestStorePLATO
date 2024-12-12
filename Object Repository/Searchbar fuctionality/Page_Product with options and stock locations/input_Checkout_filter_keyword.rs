@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Checkout_filter_keyword</name>
    <tag></tag>
-   <elementGuidId>ff718cc8-6441-4fcf-8679-d3415b23e21d</elementGuidId>
+   <elementGuidId>dc05961e-9c5b-4f48-9fe0-70a5e3df95ee</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>76bb244f-eae5-4047-8a7c-e8f936953748</webElementGuid>
+      <webElementGuid>5cb73f91-7159-48e6-8154-23e0c56c3b7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1bf302c1-65ed-4427-a9ca-7c89940f6fdf</webElementGuid>
+      <webElementGuid>2d3730fe-695a-48bb-8014-5d5da759f73a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>filter_keyword</value>
-      <webElementGuid>b03a2b85-395f-46b4-83c4-5dee9525dfad</webElementGuid>
+      <webElementGuid>82bf92e2-be8f-4e1d-b359-0c71502e2bbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>filter_keyword</value>
-      <webElementGuid>3dba628d-ce80-4780-94f1-8fc8ec254549</webElementGuid>
+      <webElementGuid>567bd74a-3b87-4a83-97cf-9c976e3322c1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>0565b2ac-65fa-4ad2-99a2-cef518a2d093</webElementGuid>
+      <webElementGuid>267b2e5b-87e1-4a4b-9fab-d5421b66174b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>pull-left input-medium search-query dropdown-toggle</value>
-      <webElementGuid>f1044b60-ca9c-42be-83e2-2b8a09f95792</webElementGuid>
+      <webElementGuid>7ab196c2-934a-40ec-bc52-74c193a0dd13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search Keywords</value>
-      <webElementGuid>42bd2b39-8d7b-40ec-8dd1-286f4e001624</webElementGuid>
+      <webElementGuid>ba31adcd-82d1-415d-a281-87a333207cac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>959d00da-dc6e-4170-bf9c-081230ffdd8c</webElementGuid>
+      <webElementGuid>72e8918b-7b4e-4da5-b8cb-7f06c95bb763</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;filter_keyword&quot;)</value>
-      <webElementGuid>b65bcd47-d270-4266-a87d-2ba56c69a226</webElementGuid>
+      <webElementGuid>8dc1c7ca-2db8-40b2-89e9-1599fb14e0bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='filter_keyword']</value>
-      <webElementGuid>34005ad1-0d37-43b4-8656-7bc8e941c5c9</webElementGuid>
+      <webElementGuid>dbf495bb-36f0-4b78-8f0f-0773e1579125</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='search_form']/div/input</value>
-      <webElementGuid>1bcc3f23-6fd6-42ed-b7bb-80596de5969a</webElementGuid>
+      <webElementGuid>83a4384a-632f-4749-bcd5-67ad578cb99b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/input</value>
-      <webElementGuid>fb91a8b5-e992-4076-a0d4-e6224707bcd9</webElementGuid>
+      <webElementGuid>63e9c239-a1ff-4d51-9361-18b8e186bbe6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +119,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'filter_keyword' and @name = 'filter_keyword' and @placeholder = 'Search Keywords']</value>
-      <webElementGuid>023f3d9d-6fe3-4367-a3e8-7ec597de3dff</webElementGuid>
+      <webElementGuid>35fbb2c1-6b9a-4261-905d-734100aea24a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

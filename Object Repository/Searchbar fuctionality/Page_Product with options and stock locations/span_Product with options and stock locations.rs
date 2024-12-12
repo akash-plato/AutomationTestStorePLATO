@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Product with options and stock locations</name>
+   <tag></tag>
+   <elementGuidId>4e35351a-9903-4862-989b-9191caa008ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product_details']/div/div[2]/div/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bgnone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4de23f34-1c98-4da2-9708-5bd44be1886c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bgnone</value>
+      <webElementGuid>a6285d18-bc27-472c-8af1-ac3b0209770c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product with options and stock locations</value>
+      <webElementGuid>9d5f5b2b-01e8-4ddd-8e5e-c751454da453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product_details&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/h1[@class=&quot;productname&quot;]/span[@class=&quot;bgnone&quot;]</value>
+      <webElementGuid>4cab11c2-27b7-4932-a05e-86a257df51e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product_details']/div/div[2]/div/div/h1/span</value>
+      <webElementGuid>fd26cfe0-7b73-40ed-aa84-1427a808d232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$25.29'])[1]/following::span[1]</value>
+      <webElementGuid>fe008ddf-3dcb-4d0f-a5b9-b4a4fb5f7014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$21.25'])[1]/following::span[2]</value>
+      <webElementGuid>81d9c2bc-d8c2-480a-b5f3-a6da78135452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$15.39'])[1]/preceding::span[2]</value>
+      <webElementGuid>8cb756f9-6d05-438a-9421-12d9f543b147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size EU'])[1]/preceding::span[2]</value>
+      <webElementGuid>ef02d0e0-9b31-4044-8083-5e5d171726c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>e72e61cd-2b47-4ee2-9e75-d8756a746b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Product with options and stock locations' or . = 'Product with options and stock locations')]</value>
+      <webElementGuid>c89d967c-f0d9-43cd-a716-d8df8d9d83ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

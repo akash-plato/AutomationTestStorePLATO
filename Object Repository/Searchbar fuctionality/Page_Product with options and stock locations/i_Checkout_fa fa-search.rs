@@ -3,7 +3,7 @@
    <description></description>
    <name>i_Checkout_fa fa-search</name>
    <tag></tag>
-   <elementGuidId>ff6dae55-ea51-43a4-a63b-f2983dbd4f5c</elementGuidId>
+   <elementGuidId>bbf8c480-8ab5-47cd-a33e-304c5700f8c9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>5a072091-5fad-4a66-a3ed-6fd901f0bd8a</webElementGuid>
+      <webElementGuid>ded0f039-bd0d-4922-ba25-e1a544b7b1c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,15 +31,15 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-search</value>
-      <webElementGuid>e2f40a1d-5a2b-400f-953e-cbe06532d343</webElementGuid>
+      <webElementGuid>4add7712-bb7d-4657-be95-cfa4b465fb5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;search_form&quot;)/div[@class=&quot;btn-group search-bar&quot;]/div[@class=&quot;button-in-search&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
-      <webElementGuid>93571f29-bd46-4b30-a115-892ccfdba62d</webElementGuid>
+      <value>id(&quot;search_form&quot;)/div[@class=&quot;btn-group search-bar open&quot;]/div[@class=&quot;button-in-search&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>ca8654dc-25ff-407c-afda-8b9de75c12c6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='search_form']/div/div/i</value>
-      <webElementGuid>bf19e4a8-7475-40e6-89ca-a9b64d84b36c</webElementGuid>
+      <webElementGuid>5b24dadb-aa72-4db6-880a-1fb156245de2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +55,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/i</value>
-      <webElementGuid>a3574560-dafd-43d6-bfed-339286d0078e</webElementGuid>
+      <webElementGuid>60606414-8521-4f37-a1f5-d6ced6e8ee61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

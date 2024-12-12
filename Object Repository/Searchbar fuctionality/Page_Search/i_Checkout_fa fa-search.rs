@@ -3,7 +3,7 @@
    <description></description>
    <name>i_Checkout_fa fa-search</name>
    <tag></tag>
-   <elementGuidId>ff6dae55-ea51-43a4-a63b-f2983dbd4f5c</elementGuidId>
+   <elementGuidId>b8c7a5aa-a65f-4d6b-b554-286c0facd7ff</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>5a072091-5fad-4a66-a3ed-6fd901f0bd8a</webElementGuid>
+      <webElementGuid>e3e4ea0d-4e4d-4fed-8081-a846a9d50508</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-search</value>
-      <webElementGuid>e2f40a1d-5a2b-400f-953e-cbe06532d343</webElementGuid>
+      <webElementGuid>a243367c-85e5-45b7-bcbc-71e5e04f17e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search_form&quot;)/div[@class=&quot;btn-group search-bar&quot;]/div[@class=&quot;button-in-search&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
-      <webElementGuid>93571f29-bd46-4b30-a115-892ccfdba62d</webElementGuid>
+      <webElementGuid>48e7bb16-42c2-4b55-9f5b-26662cd6e385</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='search_form']/div/div/i</value>
-      <webElementGuid>bf19e4a8-7475-40e6-89ca-a9b64d84b36c</webElementGuid>
+      <webElementGuid>bc1f0489-bcd0-49ca-83b0-5bb9ee91bc8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +55,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/i</value>
-      <webElementGuid>a3574560-dafd-43d6-bfed-339286d0078e</webElementGuid>
+      <webElementGuid>f131b13c-7b45-40e7-946f-84e47bfa08ed</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

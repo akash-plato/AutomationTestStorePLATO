@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>1f96e6c8-15ea-41f3-9a02-34713c91b231</webElementGuid>
+      <webElementGuid>6e43aac5-7db8-42d7-9dec-39d4effab037</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa fa-search</value>
-      <webElementGuid>4e1145e0-2174-405b-8e31-207712d76e45</webElementGuid>
+      <webElementGuid>49feb7cb-bf73-42ae-bc88-61722ed8bb5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search_form&quot;)/div[@class=&quot;btn-group search-bar open&quot;]/div[@class=&quot;button-in-search&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
-      <webElementGuid>294d8339-789f-4d68-a4b8-ff39a2fa83ef</webElementGuid>
+      <webElementGuid>cb140a89-2637-4687-9e30-b70e845ce734</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='search_form']/div/div/i</value>
-      <webElementGuid>21a97fc2-f21b-454c-9068-afb0de37730b</webElementGuid>
+      <webElementGuid>4987fb06-1bc1-46b7-87ea-2329627889f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,6 +55,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/i</value>
-      <webElementGuid>a3d00437-9de9-4816-bae5-c22c2174a770</webElementGuid>
+      <webElementGuid>3de68ea3-161d-47f5-a176-6c7a65cb1d4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
