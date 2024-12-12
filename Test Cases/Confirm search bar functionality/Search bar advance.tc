@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Search bar functionality</name>
+   <name>Search bar advance</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>7ccbaa65-1508-4461-9a87-77bf04490c76</testCaseGuid>
+   <testCaseGuid>92a40ff7-80cf-4370-bf3f-9bf794b698e6</testCaseGuid>
 </TestCaseEntity>
