@@ -21,67 +21,93 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'))
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'))
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'Skinsheen Bronzer Stick')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'h')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/input_Search in product descriptions_description'))
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/input_Search in product model_model'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Skinsheen Bronzer Stick')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,68', true)
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'Fruit of the Loom T-Shirts 5 Pack - Super Premium')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Fruit of the Loom T-Shirts 5 Pack - Super Premium')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,43', true)
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'Absolute Anti-Age Spot Replenishing Unifying TreatmentSPF 15')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Absolute Anti-Age Spot Replenishing Unifying TreatmentSPF 15')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,49', true)
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'Acqua Di Gio Pour Homme')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Acqua Di Gio Pour Homme')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
+WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,52', true)
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
 
-WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/button_Search'))
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'pro-v')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'lighting ')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Highlighting ')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/input_Search in product descriptions_description'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/input_Search in product model_model'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
 WebUI.closeBrowser()
 

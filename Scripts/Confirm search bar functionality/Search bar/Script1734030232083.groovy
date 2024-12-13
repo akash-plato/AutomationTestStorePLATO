@@ -31,7 +31,17 @@ WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewR
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
 WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'), 
+    'light')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'), 
     'L\'EXTRÊME Instant Extensions Lengthening Mascara')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'), 
+    'plato')
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
