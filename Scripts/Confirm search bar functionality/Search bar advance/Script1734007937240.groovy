@@ -39,6 +39,14 @@ WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/inp
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'plato')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/input_Search in product descriptions_description'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/input_Search in product model_model'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
 WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Skinsheen Bronzer Stick')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
@@ -100,6 +108,12 @@ WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/i
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Pantene Pro-V Conditioner, Classic Care')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
 WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Highlighting ')
 

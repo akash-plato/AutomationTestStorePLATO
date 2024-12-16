@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>confirm the searchbar on the website functionality</description>
-   <name>Confirm Searchbar functionality</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>78b050ec-61ba-411e-be4c-c0cbdc37c92f</testCaseGuid>
-</TestCaseEntity>

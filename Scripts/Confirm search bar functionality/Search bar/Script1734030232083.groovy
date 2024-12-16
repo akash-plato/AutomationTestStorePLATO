@@ -45,6 +45,10 @@ WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewR
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'PRadoct ')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Skinsheen Bronzer Stick/input_Checkout_filter_keyword'))
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Skinsheen Bronzer Stick/a_All Categories'))
@@ -55,7 +59,16 @@ WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Sear
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
-WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'PRadoct ')
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'), 
+    'plato')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'Fruit of the Loom T-Shirts 5 Pack - Super Premium')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'Friut of the Loom T-Shirts 5 Pack - Super Premium')
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
@@ -67,11 +80,38 @@ WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Sear
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Product with options and stock locations/i_Checkout_fa fa-search'))
 
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'), 
+    'plato')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Product with options and stock locations/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'Absolute Anti-Age Spot Replenishing Unifying TreatmentSPF 15')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Product with options and stock locations/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'Abselute')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Product with options and stock locations/i_Checkout_fa fa-search'))
+
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Skinsheen Bronzer Stick/input_Checkout_filter_keyword'))
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/a_Fragrance'))
 
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'Acqua Di Gio Pour Homme')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Checkout_fa fa-search'))
+
 WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'A')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'), 
+    'Acqua Di Gio Pour Homne')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'), 
+    'plato')
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Checkout_fa fa-search'))
 
@@ -80,6 +120,23 @@ WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Skinsh
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/a_Hair Care'))
 
 WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'P')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/input_Checkout_filter_keyword'), 
+    'plato')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'Pantene Pro-V Conditioner, Classic Care')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'Highlighting ')
+
+WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Checkout_fa fa-search'))
+
+WebUI.setText(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/input_Checkout_filter_keyword'), 'Highliting ')
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Search/i_Checkout_fa fa-search'))
 
