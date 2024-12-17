@@ -56,7 +56,7 @@ WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRivetin
 WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,68', true)
 
-WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'plato')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
@@ -66,10 +66,20 @@ WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/but
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Friut of the Loom T-Shirts 5 Pack - Super Premium')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
 WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,43', true)
 
-WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'plato')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Absoletu Anti-Age Spot Replenishing Unifying TreatmentSPF 15')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
