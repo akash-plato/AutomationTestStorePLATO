@@ -22,3 +22,5 @@ build
 /.classpath
 .svn/
 .cache/
+settings/
+AutomationTestStorePLATO.prj

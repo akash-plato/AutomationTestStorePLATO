@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Total</name>
+   <tag></tag>
+   <elementGuidId>b7d32bbe-4e01-49b8-b360-5ada6ddb9d0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='totals_table']/tbody/tr[4]/td/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.extra.bold.totalamout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Total:&quot;s] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50def959-b60b-47c4-b390-b5361912eb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>extra bold totalamout</value>
+      <webElementGuid>a6edfb11-a06c-41d2-bc26-9373a0c2c339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total:</value>
+      <webElementGuid>88e7c5c4-42bd-49f6-a9ec-a942447c5eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;totals_table&quot;)/tbody[1]/tr[4]/td[1]/span[@class=&quot;extra bold totalamout&quot;]</value>
+      <webElementGuid>06ee5c8f-9dad-4b73-ab51-0002b6730ff6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='totals_table']/tbody/tr[4]/td/span</value>
+      <webElementGuid>bb211c58-8c16-46fa-b0de-42f5338e30d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$8.63'])[2]/following::span[1]</value>
+      <webElementGuid>2846a6a3-2316-403c-ade4-5c353cded93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HST (13%):'])[2]/following::span[2]</value>
+      <webElementGuid>579b8d24-7417-4712-9455-d5b62ad90b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$79.10'])[1]/preceding::span[1]</value>
+      <webElementGuid>f0b203ce-4574-4242-a192-20067e9adafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/span</value>
+      <webElementGuid>865261d6-83e3-4a7b-a466-171cb29ac9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Total:' or . = 'Total:')]</value>
+      <webElementGuid>3df71b3d-90ec-4364-a48a-17ef3c2703eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
