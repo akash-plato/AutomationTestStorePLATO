@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pickup_checkbox_place</name>
+   <tag></tag>
+   <elementGuidId>c0218e73-a466-4615-ab0d-51a109f6cf29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='PayFrm']/div[2]/div[2]/div/table/tbody/tr[2]/td/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkbox_place</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Pickup From Store Free&quot;i] >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c74a8d71-b108-47bd-97e9-aa4dbc2e38ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox_place</value>
+      <webElementGuid>ab1ed26d-8ce0-4d37-9138-21c78601d9e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PayFrm&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;registerbox&quot;]/table[@class=&quot;table table-striped table-shipments&quot;]/tbody[1]/tr[2]/td[1]/label[1]/div[@class=&quot;checkbox_place&quot;]</value>
+      <webElementGuid>78d8a4a3-bde0-4fbc-a6d5-0d57dcb6cf9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PayFrm']/div[2]/div[2]/div/table/tbody/tr[2]/td/label/div</value>
+      <webElementGuid>5f3480d0-02ba-4cd7-a902-261fdb8180e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pickup'])[1]/following::div[1]</value>
+      <webElementGuid>c2e529b9-9a70-40b2-9633-abf4c222ab35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pickup From Store'])[1]/preceding::div[1]</value>
+      <webElementGuid>f614eef0-6a1e-4bc9-a186-8e946f363924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free'])[1]/preceding::div[1]</value>
+      <webElementGuid>86f87a7a-d9d4-4f7d-adfb-cf42ceff2387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>dc0e4af1-9d43-439a-8f28-5591ee80f028</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

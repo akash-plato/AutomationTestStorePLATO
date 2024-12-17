@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Flat Shipping Rate</name>
+   <tag></tag>
+   <elementGuidId>063f5ad2-3be2-48f7-84e3-8e015432a23d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='default_flat_rate_shipping.default_flat_rate_shipping_title']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Flat Shipping Rate&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>109db49f-3dd3-457a-8357-0b32da1553d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>default_flat_rate_shipping.default_flat_rate_shipping_title</value>
+      <webElementGuid>de4a1768-227f-4823-a2d0-88958f79b013</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>default_flat_rate_shippingdefault_flat_rate_shippingdefault_flat_rate_shipping.default_flat_rate_shipping</value>
+      <webElementGuid>f23debc2-9d5c-46aa-a483-03eb27a50202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Flat Shipping Rate</value>
+      <webElementGuid>308babf8-a629-486a-8a62-08e0786e679b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                                                Flat Shipping Rate                                                    </value>
+      <webElementGuid>d9137c4f-83af-445e-ab05-a5280dccfec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;default_flat_rate_shipping.default_flat_rate_shipping_title&quot;)</value>
+      <webElementGuid>f1026b3d-ef52-4245-b809-dc53adc44a2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//label[@id='default_flat_rate_shipping.default_flat_rate_shipping_title']</value>
+      <webElementGuid>35399b45-38fa-471b-af89-00f168a07807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PayFrm']/div[2]/div[2]/div/table/tbody/tr[6]/td[2]/label</value>
+      <webElementGuid>39501cca-d502-412b-a1e2-2436824a8e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Flat Rate'])[1]/following::label[2]</value>
+      <webElementGuid>4341b58f-bd9a-4a7e-a081-2429134eaa4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$3.66'])[1]/following::label[2]</value>
+      <webElementGuid>97a00691-4de5-4426-9642-4fd141ed2414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$12.42'])[1]/preceding::label[1]</value>
+      <webElementGuid>eacca549-1b78-4a19-a185-f54012ddc408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flat Shipping Rate']/parent::*</value>
+      <webElementGuid>15ccc3ce-9bba-462f-a8c4-fcbd04123617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/label</value>
+      <webElementGuid>fd668c45-49c2-43ff-993b-df2efb855858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'default_flat_rate_shipping.default_flat_rate_shipping_title' and @title = 'Flat Shipping Rate' and (text() = '
+                                                                                                                Flat Shipping Rate                                                    ' or . = '
+                                                                                                                Flat Shipping Rate                                                    ')]</value>
+      <webElementGuid>e030383e-ecf0-4812-a357-f2d21084b000</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

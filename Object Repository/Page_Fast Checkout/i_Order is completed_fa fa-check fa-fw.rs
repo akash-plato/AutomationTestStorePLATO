@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Order is completed_fa fa-check fa-fw</name>
+   <tag></tag>
+   <elementGuidId>db07a163-c959-4153-9a0f-b65cd150a2d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fast_checkout_success']/div/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-check.fa-fw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>42eaa17d-d8aa-41d9-8c88-114bcd90a966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-check fa-fw</value>
+      <webElementGuid>75ecf95c-58e5-47ff-b6bd-1aa70a991413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fast_checkout_success&quot;)/div[@class=&quot;pay-form&quot;]/div[@class=&quot;text-center order-success&quot;]/div[@class=&quot;order-success&quot;]/div[@class=&quot;text-success&quot;]/i[@class=&quot;fa fa-check fa-fw&quot;]</value>
+      <webElementGuid>4cc36230-8195-46fe-b5c7-a60385c235fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fast_checkout_success']/div/div/div/div/i</value>
+      <webElementGuid>35962bdd-8537-490a-a136-86d6ad7e3328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>7893cffb-418d-4495-aa72-a87aac4a25b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

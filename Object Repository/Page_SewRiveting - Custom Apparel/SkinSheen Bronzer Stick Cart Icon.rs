@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SkinSheen Bronzer Stick Cart Icon</name>
+   <tag></tag>
+   <elementGuidId>893882e2-7f31-4788-8416-804a48aaddc1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block_frame_featured_2639']/div/div/div[2]/div[3]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-cart-plus.fa-fw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#block_frame_featured_2639 >> internal:role=link[name=&quot;&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4f0f29d7-85d7-4466-8f1b-be86c09e89c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cart-plus fa-fw</value>
+      <webElementGuid>68211731-df72-4230-b654-a14f8b653cb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block_frame_featured_2639&quot;)/div[@class=&quot;thumbnails list-inline&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;pricetag jumbotron&quot;]/a[@class=&quot;productcart&quot;]/i[@class=&quot;fa fa-cart-plus fa-fw&quot;]</value>
+      <webElementGuid>9eed1c2a-1af1-48af-8e62-7909b0944829</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_frame_featured_2639']/div/div/div[2]/div[3]/a/i</value>
+      <webElementGuid>6ee597c0-df34-456c-a01d-cb55dedad4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/i</value>
+      <webElementGuid>0d5a4388-603d-4516-be87-e69f4bf467d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
