@@ -33,3 +33,5 @@ WebUI.click(findTestObject('Object Repository/Shopping Cart/Absolute Remove from
 
 WebUI.click(findTestObject('Object Repository/Shopping Cart/BeneFit Remove from Cart Button'), FailureHandling.CONTINUE_ON_FAILURE)
 
+WebUI.closeBrowser()
+

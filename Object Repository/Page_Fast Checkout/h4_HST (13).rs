@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_HST (13)</name>
+   <tag></tag>
+   <elementGuidId>23fac96a-50bd-4a9f-8b6d-42ad47dc3c23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart_details']/ul/li[6]/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;HST (13%):&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>f3c22a0b-3e91-442c-890a-7a87bc7ae122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-group-item-heading</value>
+      <webElementGuid>f03939fa-3a9f-48eb-84b1-c5765b26aa86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HST (13%):</value>
+      <webElementGuid>4fa0e23d-7700-4fd1-91ad-8b4c6b3b44d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_details&quot;)/ul[@class=&quot;list-group&quot;]/li[@class=&quot;list-group-item&quot;]/h4[@class=&quot;list-group-item-heading&quot;]</value>
+      <webElementGuid>5ab7c507-d108-4a1a-8523-add7b690d409</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_details']/ul/li[6]/h4</value>
+      <webElementGuid>226e9920-89c6-4153-80f1-5e7b0279852b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$25.87'])[1]/following::h4[1]</value>
+      <webElementGuid>f96d630c-8ffe-48a3-ae11-65197fb1996d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub-Total:'])[1]/following::h4[1]</value>
+      <webElementGuid>2696c6eb-05d5-4c89-b4ea-a9259a2b9b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$224.86'])[1]/preceding::h4[1]</value>
+      <webElementGuid>e524bd6d-7d6b-4562-a547-885d9f6899ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/preceding::h4[1]</value>
+      <webElementGuid>895f20ca-3cc2-474a-8447-34081170914d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HST (13%):']/parent::*</value>
+      <webElementGuid>99169612-7ad4-4d8f-927a-e86fe0a7debb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/h4</value>
+      <webElementGuid>60c9eee7-23c0-4d45-a42d-1e4296ec10d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'HST (13%):' or . = 'HST (13%):')]</value>
+      <webElementGuid>acdd535f-6b46-4497-8a07-6c7fd0027679</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

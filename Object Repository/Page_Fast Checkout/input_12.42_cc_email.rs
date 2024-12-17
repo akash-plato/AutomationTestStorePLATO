@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_30.78_quantity68</name>
+   <name>input_12.42_cc_email</name>
    <tag></tag>
-   <elementGuidId>d7c61d38-cb39-4250-8aa0-d019952bcfd9</elementGuidId>
+   <elementGuidId>29e53ce1-2220-4872-ae9a-6aca7f259afd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//input[@id='cc_email']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#cart_quantity68</value>
+         <value>#cc_email</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#cart_quantity68</value>
+         <value>internal:attr=[placeholder=&quot;Your Email&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,47 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>405f6df8-eb13-4609-976a-9fc326f6db48</webElementGuid>
+      <webElementGuid>8143fdac-541e-4a4b-9f62-269350114c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-lg</value>
+      <webElementGuid>637669ab-1b1b-4319-b9ae-9a9ab11b1b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>cc_email</value>
+      <webElementGuid>4753388a-a560-4899-a7e4-eff7644c9d05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Your Email</value>
+      <webElementGuid>d473d37f-88b6-457a-a5c8-2d357cef7923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cc_email</value>
+      <webElementGuid>31ba64c8-e21f-4a9d-92af-62c3e6e5cb88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>cc_email</value>
+      <webElementGuid>17d70881-1e2f-4f1c-8cf2-9061992f53c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,94 +77,54 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1a80e7dc-2fb6-42b2-9f67-72df0daec152</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>quantity[68]</value>
-      <webElementGuid>025f1d35-350f-4183-9b1d-9736d9fba910</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>cart_quantity68</value>
-      <webElementGuid>928189e4-d7d3-417b-968e-b4b6accefd9d</webElementGuid>
+      <webElementGuid>e58f4a76-901c-40e5-a16d-5ae3f5d20750</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>bfd37ca3-7eed-4843-abce-47069aa5ffc1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>form-control short</value>
-      <webElementGuid>4ce6eca6-2d06-4e60-a74a-c057ebbaf4cb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>size</name>
-      <type>Main</type>
-      <value>6</value>
-      <webElementGuid>d8fe0f3d-bb99-4ae8-a8cb-9f9ef12e38c0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>min</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>b15d9b42-5093-4ebc-bfad-47823d1291c7</webElementGuid>
+      <value>Nathan.Gamble@Platotech.com</value>
+      <webElementGuid>74aaa5c5-f467-4e5a-9d4f-07f3369b08a9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;cart_quantity68&quot;)</value>
-      <webElementGuid>f2cd6d60-eff9-401f-97ea-1b4ee462ac64</webElementGuid>
+      <value>id(&quot;cc_email&quot;)</value>
+      <webElementGuid>846442e5-2d2c-4e32-925b-72d5a1a131c5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='cart_quantity68']</value>
-      <webElementGuid>5bcf6cfc-57dd-420f-99b9-1cf0c12b2288</webElementGuid>
+      <value>//input[@id='cc_email']</value>
+      <webElementGuid>cee24dfd-2519-4f6f-824b-ad6cd706d522</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='cart']/div/table/tbody/tr[3]/td[5]/div/input</value>
-      <webElementGuid>e0bcc0ab-283d-4679-8f2d-bf9b17fcfbd1</webElementGuid>
+      <value>//form[@id='PayFrm']/div[2]/div[3]/div/div/div/input</value>
+      <webElementGuid>fc2e7f74-84c2-4311-a27a-ae259a0a5cea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//tr[3]/td[5]/div/input</value>
-      <webElementGuid>0eeff19c-99ff-41a3-95e3-cc2fed3e5b8a</webElementGuid>
+      <value>//div/input</value>
+      <webElementGuid>d0a39444-b126-453a-be4b-313c953d1ea8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @name = 'quantity[68]' and @id = 'cart_quantity68']</value>
-      <webElementGuid>21a0a9a6-5f76-4598-a425-18dc3c8f8616</webElementGuid>
+      <value>//input[@placeholder = 'Your Email' and @id = 'cc_email' and @name = 'cc_email' and @type = 'text']</value>
+      <webElementGuid>a3812f38-d365-442d-8945-5ccbad2db2f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Local Delivery_checkbox_place</name>
+   <tag></tag>
+   <elementGuidId>60d333b4-dcf1-408a-8e68-ddf3de05d835</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='PayFrm']/div[2]/div[2]/div/table/tbody/tr[4]/td/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(4) > td > label > div.checkbox_place</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Local Delivery $3.66&quot;i] >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1267acfb-b813-4356-8d2c-ac254bc9bc01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox_place</value>
+      <webElementGuid>a7df85c7-6847-4e81-b786-fdb9456f38a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PayFrm&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;registerbox&quot;]/table[@class=&quot;table table-striped table-shipments&quot;]/tbody[1]/tr[4]/td[1]/label[1]/div[@class=&quot;checkbox_place&quot;]</value>
+      <webElementGuid>fcdd31c6-8382-46af-878c-58e82a984136</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='PayFrm']/div[2]/div[2]/div/table/tbody/tr[4]/td/label/div</value>
+      <webElementGuid>7dc16e49-7470-45c7-a783-169dcddfcccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local Delivery'])[1]/following::div[1]</value>
+      <webElementGuid>7b53c1a6-ca23-472b-8d3d-ca50483c3b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free'])[1]/following::div[1]</value>
+      <webElementGuid>54895c68-8d07-44c4-acc4-3a695fc518c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$3.66'])[1]/preceding::div[1]</value>
+      <webElementGuid>a9d3f72e-2939-40f6-8e2e-f9c6fcb0e728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/label/div</value>
+      <webElementGuid>e21a5596-8f7c-4cbd-8f3e-01eaf126a855</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

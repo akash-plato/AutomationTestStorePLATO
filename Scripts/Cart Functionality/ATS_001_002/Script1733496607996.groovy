@@ -23,11 +23,9 @@ WebUI.click(findTestObject('Page_SewRiveting - Custom Apparel/SkinSheen Bronzer 
 
 WebUI.click(findTestObject('Page_SewRiveting - Custom Apparel/Absolute Anti-Age Cart Icon'))
 
-WebUI.click(findTestObject('Object Repository/Page_SewRiveting - Custom Apparel/BeneFit Girl Meets Pearl Cart Icon'))
+WebUI.click(findTestObject('Page_SewRiveting - Custom Apparel/BeneFit Girl Meets Pearl Cart Icon'))
 
-WebUI.mouseOver(findTestObject('Object Repository/Page_SewRiveting - Custom Apparel/Cart and Items Dropdown'))
-
-WebUI.click(findTestObject('Object Repository/Page_SewRiveting - Custom Apparel/View Cart Icon in Cart and Items Dropdown'))
+WebUI.click(findTestObject('Object Repository/Page_SewRiveting - Custom Apparel/Cart and Items Dropdown'))
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/index.php?rt=checkout/cart')
 

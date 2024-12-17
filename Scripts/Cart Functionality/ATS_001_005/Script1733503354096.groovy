@@ -478,3 +478,5 @@ WebUI.click(findTestObject('Shopping Cart/Shipment Options'), FailureHandling.ST
 
 WebUI.click(findTestObject('Shopping Cart/Shipment Options Flat Shipping Rate'), FailureHandling.STOP_ON_FAILURE)
 
+WebUI.callTestCase(findTestCase('Cart Functionality/ATS_001_003'), [:], FailureHandling.STOP_ON_FAILURE)
+

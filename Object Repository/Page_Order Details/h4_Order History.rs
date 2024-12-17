@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Order History</name>
+   <tag></tag>
+   <elementGuidId>a57efa6a-b8e7-420e-acce-6d8217a7c3bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/div[3]/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.heading4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Order History&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>0e39d5cc-bfb2-46f9-822e-2907d857b63e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>heading4</value>
+      <webElementGuid>c5513353-2c5f-4e79-a595-88971c12f21d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Order History</value>
+      <webElementGuid>a59cbecd-6b99-4dd1-b3af-fafa4cb4ffd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;col-md-9 col-xs-12 mt20&quot;]/div[@class=&quot;ct_padding_right&quot;]/div[@class=&quot;contentpanel&quot;]/div[@class=&quot;container-fluid&quot;]/h4[@class=&quot;heading4&quot;]</value>
+      <webElementGuid>ec9a21a4-ec88-40fd-a5f8-16f999aef0c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/div[3]/h4</value>
+      <webElementGuid>fbf76a84-e29b-4ee2-acca-f15a9c52a2f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$237.28'])[1]/following::h4[1]</value>
+      <webElementGuid>6f325a87-96a3-440f-95ee-2682da4f6155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::h4[1]</value>
+      <webElementGuid>e53a31ea-8aeb-474e-af3a-660519660b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Added'])[1]/preceding::h4[1]</value>
+      <webElementGuid>01314f8c-d295-423d-abe7-5b5ca881ec4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/preceding::h4[1]</value>
+      <webElementGuid>bd2afa0f-70de-4e11-bd71-e3fb0dc1edb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h4</value>
+      <webElementGuid>2d78665e-3b37-4e9a-90fc-8917b7de2256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Order History' or . = 'Order History')]</value>
+      <webElementGuid>d6595287-8035-4e51-a91c-869c6e6a06de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

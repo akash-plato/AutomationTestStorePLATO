@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Return Policy</name>
+   <tag></tag>
+   <elementGuidId>8c8074e1-e3df-4183-b5c4-edbc15702386</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='new']/fieldset/div/div[4]/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Return Policy&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>e9ad823c-9594-4bc9-9ec8-c74a7310859f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Return Policy</value>
+      <webElementGuid>ebb885da-7010-46a5-ab59-6625adbc3edd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new&quot;)/fieldset[1]/div[@class=&quot;payment-select-container&quot;]/div[@class=&quot;align_right&quot;]/a[1]/b[1]</value>
+      <webElementGuid>b21f29d8-7290-4f74-8309-24c701a0e6f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='new']/fieldset/div/div[4]/a/b</value>
+      <webElementGuid>596b69b4-8fb1-4ab2-8b21-781c30e4b7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return Policy'])[1]/following::b[1]</value>
+      <webElementGuid>7f0dde95-b0fd-4ac3-ade9-c39878848650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/b</value>
+      <webElementGuid>f378e550-7b2e-42cb-93b0-67d99ff0b008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Return Policy' or . = 'Return Policy')]</value>
+      <webElementGuid>1264b5d2-347b-4dac-bb46-50faf42380f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
