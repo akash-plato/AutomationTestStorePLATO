@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apparel  accessories</name>
+   <tag></tag>
+   <elementGuidId>ee8e00d4-efa8-4dc8-90cd-db4bb3ea261d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='category_68']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#category_68</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1697dd72-575f-4d6d-8143-e12961301584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>category_68</value>
+      <webElementGuid>6561205b-5d2e-4c91-b9bd-e0d4d5d75c6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apparel &amp; accessories</value>
+      <webElementGuid>4ed37134-93d5-4f14-b00d-fb2a1d095770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;category_68&quot;)</value>
+      <webElementGuid>0721d67e-f585-47ac-905b-0073cb3504a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='category_68']</value>
+      <webElementGuid>165ce7e6-48a2-4024-95af-c3c829ddf2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='search-category']/li[4]/a</value>
+      <webElementGuid>7802770b-4c92-4eab-80e1-7f44eaca2e0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Apparel &amp; accessories')]</value>
+      <webElementGuid>7fe1b180-7c14-42ea-9cb1-42a76e5b36d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Categories'])[2]/following::a[1]</value>
+      <webElementGuid>49d03a59-f8cb-48b1-a0d4-d30fd536d0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Categories'])[1]/following::a[2]</value>
+      <webElementGuid>c058cd1c-d219-4a67-8614-da7e30672c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skincare'])[1]/preceding::a[1]</value>
+      <webElementGuid>1c048f32-13f6-47d5-9563-43494ad5c557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fragrance'])[1]/preceding::a[2]</value>
+      <webElementGuid>b08280c1-1d6c-47a5-b34e-816581bb8912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apparel &amp; accessories']/parent::*</value>
+      <webElementGuid>8727675e-4b6c-4a13-8995-0b513fe2b385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/ul/li[4]/a</value>
+      <webElementGuid>5d56e426-83d0-4bdc-81e7-9fa2c912585c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'category_68' and (text() = 'Apparel &amp; accessories' or . = 'Apparel &amp; accessories')]</value>
+      <webElementGuid>ec7707fc-7ef7-4e77-9f46-fbf4c8a03988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

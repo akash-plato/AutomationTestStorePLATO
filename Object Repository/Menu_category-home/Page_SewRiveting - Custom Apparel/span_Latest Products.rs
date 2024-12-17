@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Latest Products</name>
+   <tag></tag>
+   <elementGuidId>07b8502b-689e-4071-b60e-7c73a7e0d05c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='block_frame_latest_2640']/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#block_frame_latest_2640 > h1.heading1 > span.maintext</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>02c49ce2-a33e-469d-96a9-3d03c1687028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>maintext</value>
+      <webElementGuid>f3ed66fa-a654-4092-bff4-25ec8d819ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Latest Products</value>
+      <webElementGuid>7044aa9b-9b9d-4f5d-b315-0c05318c8c95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;block_frame_latest_2640&quot;)/h1[@class=&quot;heading1&quot;]/span[@class=&quot;maintext&quot;]</value>
+      <webElementGuid>f6bbebf9-e1c1-41fa-9cc5-8fff75de1b4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='block_frame_latest_2640']/h1/span</value>
+      <webElementGuid>8fe1a643-3a83-444c-8868-1512f31bac92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$21.62'])[2]/following::span[1]</value>
+      <webElementGuid>fdb25ef8-c35c-48e2-9475-086c013eab6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[4]/following::span[1]</value>
+      <webElementGuid>e785cf13-2163-4d01-8d4e-65b0ac7d60ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See New Products'])[1]/preceding::span[1]</value>
+      <webElementGuid>d5df9764-9329-4532-a77a-fe3c65afacf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absolute Anti-Age Spot Replenishing Unifying TreatmentSPF 15'])[1]/preceding::span[2]</value>
+      <webElementGuid>cf90615a-0ddb-4e51-a83a-1330ec1857b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Latest Products']/parent::*</value>
+      <webElementGuid>bce6cace-7136-40a9-afc4-349523c8a17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/h1/span</value>
+      <webElementGuid>a053bf88-ac2e-4b9d-b2ac-251d3d4c8c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Latest Products' or . = 'Latest Products')]</value>
+      <webElementGuid>8b45ff1d-811b-433a-af9f-9e80a34091f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
