@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Home/Page_SewRiveting - Custom Apparel/a_Home'))
 
 WebUI.mouseOver(findTestObject('Object Repository/Breadcrumb_Category-Home/Page_SewRiveting - Custom Apparel/a_Home'))

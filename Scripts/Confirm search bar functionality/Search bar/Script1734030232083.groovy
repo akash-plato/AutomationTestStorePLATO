@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_Skinsheen Bronzer Stick/input_Checkout_filter_keyword'))
 
 WebUI.click(findTestObject('Object Repository/Searchbar fuctionality/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))

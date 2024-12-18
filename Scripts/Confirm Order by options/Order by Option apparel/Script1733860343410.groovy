@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Menu_Category-apparel/Page_SewRiveting - Custom Apparel/a_Apparel  accessories'))
 
 WebUI.scrollToElement(findTestObject('Object Repository/Menu_Category-apparel/Page_Apparel  accessories (1)/div_Per Page10203040501 - 8 of 8             1'), 

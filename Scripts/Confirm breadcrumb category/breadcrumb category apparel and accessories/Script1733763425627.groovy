@@ -21,9 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sewriveting.ca/store/')
 
-WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_SewRiveting - Custom Apparel/a_Apparel  accessories'))
+WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_Apparel  accessories/a_Apparel  accessories'))
+WebUI.click(findTestObject('Breadcrumb_Category-Apparel/Page_SewRiveting - Custom Apparel/a_Apparel  accessories'))
+
+WebUI.click(findTestObject('Breadcrumb_Category-Apparel/Page_Apparel  accessories/a_Apparel  accessories'))
 
 WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_Apparel  accessories/a_Home'))
 
