@@ -25,17 +25,17 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Breadcrumb_Category-Apparel/Page_SewRiveting - Custom Apparel/a_Apparel  accessories'))
 
-WebUI.click(findTestObject('Breadcrumb_Category-Apparel/Page_Apparel  accessories/a_Apparel  accessories'))
+WebUI.click(findTestObject('Breadcrumb_Category-Apparel/new apparel accessories/Page_Apparel  accessories/a_Apparel  accessories'))
 
 WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_Apparel  accessories/a_Home'))
 
 WebUI.mouseOver(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_SewRiveting - Custom Apparel/a_Apparel  accessories'))
 
-WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_SewRiveting - Custom Apparel/a_T-shirts'))
+WebUI.click(findTestObject('Breadcrumb_Category-Apparel/Page_SewRiveting - Custom Apparel/a_T-shirts'))
 
 WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_T-shirts/a_T-shirts'))
 
-WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_T-shirts/a_Apparel  accessories_1'))
+WebUI.click(findTestObject('Breadcrumb_Category-Apparel/new apparel accessories/Page_Apparel  accessories/a_Apparel  accessories'))
 
 WebUI.click(findTestObject('Object Repository/Breadcrumb_Category-Apparel/Page_Apparel  accessories/a_Home'))
 
