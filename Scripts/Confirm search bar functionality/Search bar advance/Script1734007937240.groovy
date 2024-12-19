@@ -49,6 +49,10 @@ WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/inp
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Skinsheen Bronerz Stick')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
 WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Skinsheen Bronzer Stick')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
@@ -59,6 +63,10 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/P
     '0,68', true)
 
 WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'plato')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
@@ -81,6 +89,10 @@ WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/i
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
 WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Absoletu Anti-Age Spot Replenishing Unifying TreatmentSPF 15')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
@@ -94,6 +106,10 @@ WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRivetin
 WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,49', true)
 
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'plato')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
 WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
@@ -104,18 +120,24 @@ WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/but
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
 
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Acqau Di Gio Pour Homme')
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
+
+WebUI.click(findTestObject('Object Repository/advance search bar/Page_SewRiveting - Custom Apparel/i_Checkout_fa fa-search'))
+
 WebUI.selectOptionByValue(findTestObject('Object Repository/advance search bar/Page_Search/select_All CategoriesApparel  accessoriesSk_377d09'), 
     '0,52', true)
 
-WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'PRO-V')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'Fruit')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'pro-v')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'plato')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
-WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'lighting ')
+WebUI.setText(findTestObject('Object Repository/advance search bar/Page_Search/input_Search Criteria_keyword'), 'panteen')
 
 WebUI.click(findTestObject('Object Repository/advance search bar/Page_Search/button_Search'))
 
