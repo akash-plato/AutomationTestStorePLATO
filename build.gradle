@@ -37,10 +37,10 @@ dependencies {
 
 tasks.register("katalonExecute") {
     doLast {
-        def katalonCmd = "./katalon/katalonc -noSplash -runMode=console " +
+        def katalonCmd = "./katalon/katalonc -noSplash -runMode=headless " +
                 "-projectPath=$(pwd)/AutomationTestStorePLATO.prj " +
                 "-retry=0 -testSuitePath=\"Test Suites/ATS_TS1_001\" " +
-                "-executionProfile=\"ATS_001\" -browserType=\"Chrome\" " +
+                "-executionProfile=\"ATS_001\" -browserType=\"ChromeHeadless\" " +
                 "-reportFolder=$(pwd)/Reports -reportFileName=report"
         println("Running: $katalonCmd")
         def process = katalonCmd.execute()
