@@ -18,3 +18,35 @@ dependencies {
   // JSON Schema Validation
   // compile 'io.rest-assured:json-schema-validator:3.2.0'
 }
+
+plugins {
+    id 'java'
+    id 'application'
+    id "com.katalon.gradle-plugin" version "0.1.2"
+}
+
+repositories {
+    mavenCentral()
+    google()
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.13.2'
+    // Add any other dependencies your project requires
+}
+
+tasks.register("katalonExecute") {
+    doLast {
+        def katalonCmd = "./katalon/katalonc -noSplash -runMode=console " +
+                "-projectPath=$(pwd)/AutomationTestStorePLATO.prj " +
+                "-retry=0 -testSuitePath=\"Test Suites/ATS_TS1_001\" " +
+                "-executionProfile=\"ATS_001\" -browserType=\"Chrome\" " +
+                "-reportFolder=$(pwd)/Reports -reportFileName=report"
+        println("Running: $katalonCmd")
+        def process = katalonCmd.execute()
+        process.waitForProcessOutput(System.out, System.err)
+        if (process.exitValue() != 0) {
+            throw new GradleException("Katalon execution failed with exit code ${process.exitValue()}")
+        }
+    }
+}
