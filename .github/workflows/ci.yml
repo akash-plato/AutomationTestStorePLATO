@@ -37,12 +37,12 @@ jobs:
 
       - name: Run Katalon Tests
         run: |
-          katalon/Katalon_Studio_Engine_Linux_64-8.6.5/katalonc -noSplash -runMode=headless \
-          # xvfb-run -a katalon/Katalon_Studio_Engine_Linux_64-8.6.5/katalonc -noSplash -runMode=console \
+          xvfb-run -s "-display :99" katalon/Katalon_Studio_Engine_Linux_64-8.6.5/katalonc -noSplash -runMode=console \
             -projectPath=$(pwd)/AutomationTestStorePLATO.prj \
             -retry=0 -testSuitePath="Test Suites/ATS_TS1_001" \
             -executionProfile="ATS_001" -browserType="ChromeHeadless" \
             -reportFolder=$(pwd)/Reports -reportFileName=report
+
 
       - name: Upload Test Results
         uses: actions/upload-artifact@v4
