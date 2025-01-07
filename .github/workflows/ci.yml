@@ -3,10 +3,10 @@ name: Katalon CI - Nathan's repo
 on:
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 
 jobs:
   katalon-test:
@@ -29,18 +29,21 @@ jobs:
         run: |
           mkdir -p katalon
           wget https://github.com/katalon-studio/katalon-studio/releases/download/v8.6.5/Katalon_Studio_Engine_Linux_64-8.6.5.tar.gz
-          tar -xvf Katalon_Studio_Engine_Linux_64-8.6.5.tar.gz -C ./katalon
-          chmod +x ./katalon/katalonc
+          tar -xvf Katalon_Studio_Engine_Linux_64-8.6.5.tar.gz -C katalon
+          chmod +x katalon/Katalon_Studio_Engine_Linux_64-8.6.5/katalonc
+
+      - name: List Extracted Files
+        run: ls -R katalon
 
       - name: Run Katalon Tests
         run: |
-          ./katalon/katalonc -noSplash -runMode=console \
+          katalon/Katalon_Studio_Engine_Linux_64-8.6.5/katalonc -noSplash -runMode=console \
             -projectPath=$(pwd)/AutomationTestStorePLATO.prj \
             -retry=0 -testSuitePath="Test Suites/ATS_TS1_001" \
             -executionProfile="ATS_001" -browserType="Chrome" \
             -reportFolder=$(pwd)/Reports -reportFileName=report
 
-      - name: Upload Test Results as artifacts
+      - name: Upload Test Results
         uses: actions/upload-artifact@v4
         with:
           name: katalon-reports
