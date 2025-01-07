@@ -37,7 +37,8 @@ jobs:
 
       - name: Run Katalon Tests
         run: |
-          katalon/Katalon_Studio_Engine_Linux_64-8.6.5/katalonc -noSplash -runMode=console \
+          # katalon/Katalon_Studio_Engine_Linux_64-8.6.5/katalonc -noSplash -runMode=console \
+          xvfb-run -a katalon/Katalon_Studio_Engine_Linux_64-8.6.5/katalonc -noSplash -runMode=console \
             -projectPath=$(pwd)/AutomationTestStorePLATO.prj \
             -retry=0 -testSuitePath="Test Suites/ATS_TS1_001" \
             -executionProfile="ATS_001" -browserType="Chrome" \
