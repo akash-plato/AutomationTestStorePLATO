@@ -39,7 +39,7 @@ jobs:
             -executionProfile="ATS_001" -browserType="Chrome" \
             -reportFolder=$(pwd)/Reports -reportFileName=report
 
-      - name: Upload Test Results
+      - name: Upload Test Results as artifacts
         uses: actions/upload-artifact@v4
         with:
           name: katalon-reports
